@@ -2,7 +2,6 @@
 # File System Module
 
 **First use this webpack-boilerpalte do the follwoing things**
->>>>>>> 6521990d11e081c3f79f8eaf6654bf23dc9a643a
 
 _run_
 
