@@ -1,0 +1,9 @@
+{
+    "name": "shihan",
+    "age": 29,
+    "email": "shihan3star@gmail.com",
+    "address": {
+        "city": "Sylhet",
+        "country": "bangladesh"
+    }
+}
