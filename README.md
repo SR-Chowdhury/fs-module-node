@@ -49,3 +49,4 @@ _then_
 **{even you can import JSON data from different file from different way.**
 
 	let json_data = require('./obj_JSON.json');
+_Here you don't need to convert JSON data to obj ``let json_data = require('./obj_JSON.json');`` becuase it has alrady done by ES6_
